@@ -10,7 +10,7 @@ input [7:0] data_in, output reg[7:0] data_out
         mem[wptr[3:0]]<=data_in;
         end 
     if (re && !fifo_empty) begin
-        data_out<=mem[wptr[3:0]];
+        data_out<=mem[rptr[3:0]];
         end
      end 
 endmodule

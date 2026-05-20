@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 14 2025
+12:36:23
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sim_1/new/top_sim.v,1779301724,verilog,,,,top_sim,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/memory_array.v,1779301687,verilog,,/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/r_pointer.v,,memory_array,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/r_pointer.v,1779287279,verilog,,/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/status.v,,r_pointer,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/status.v,1779294178,verilog,,/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/top.v,,status,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/top.v,1779301673,verilog,,/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/w_pointer.v,,top,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
+/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sources_1/new/w_pointer.v,1779284849,verilog,,/home/dlohchab/projects/Verilog/fifo_memory/fifo_memory.srcs/sim_1/new/top_sim.v,,w_pointer,,,../../../../../../../Xilinx/2025.2/data/rsb/busdef,,,,,
